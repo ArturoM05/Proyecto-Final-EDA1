@@ -1,0 +1,162 @@
+[
+  {
+    "id_emisor": 3,
+    "nombre_emisor": "Emma",
+    "id_receptor": 4,
+    "nombre_receptor": "Sophia",
+    "mensaje": "Hola Sophia, soy Emma. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 0,
+    "nombre_emisor": "Liam",
+    "id_receptor": 4,
+    "nombre_receptor": "Sophia",
+    "mensaje": "Hola Sophia, soy Liam. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 3,
+    "nombre_emisor": "Emma",
+    "id_receptor": 2,
+    "nombre_receptor": "Noah",
+    "mensaje": "Hola Noah, soy Emma. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 3,
+    "nombre_emisor": "Emma",
+    "id_receptor": 0,
+    "nombre_receptor": "Liam",
+    "mensaje": "Hola Liam, soy Emma. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 4,
+    "nombre_emisor": "Sophia",
+    "id_receptor": 0,
+    "nombre_receptor": "Liam",
+    "mensaje": "Hola Liam, soy Sophia. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 2,
+    "nombre_emisor": "Noah",
+    "id_receptor": 0,
+    "nombre_receptor": "Liam",
+    "mensaje": "Hola Liam, soy Noah. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 3,
+    "nombre_emisor": "Emma",
+    "id_receptor": 1,
+    "nombre_receptor": "Olivia",
+    "mensaje": "Hola Olivia, soy Emma. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 4,
+    "nombre_emisor": "Sophia",
+    "id_receptor": 0,
+    "nombre_receptor": "Liam",
+    "mensaje": "Hola Liam, soy Sophia. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 3,
+    "nombre_emisor": "Emma",
+    "id_receptor": 1,
+    "nombre_receptor": "Olivia",
+    "mensaje": "Hola Olivia, soy Emma. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 3,
+    "nombre_emisor": "Emma",
+    "id_receptor": 0,
+    "nombre_receptor": "Liam",
+    "mensaje": "Hola Liam, soy Emma. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 0,
+    "nombre_emisor": "Liam",
+    "id_receptor": 1,
+    "nombre_receptor": "Olivia",
+    "mensaje": "Hola Olivia, soy Liam. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 1,
+    "nombre_emisor": "Olivia",
+    "id_receptor": 3,
+    "nombre_receptor": "Emma",
+    "mensaje": "Hola Emma, soy Olivia. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 1,
+    "nombre_emisor": "Olivia",
+    "id_receptor": 4,
+    "nombre_receptor": "Sophia",
+    "mensaje": "Hola Sophia, soy Olivia. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 3,
+    "nombre_emisor": "Emma",
+    "id_receptor": 4,
+    "nombre_receptor": "Sophia",
+    "mensaje": "Hola Sophia, soy Emma. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 2,
+    "nombre_emisor": "Noah",
+    "id_receptor": 0,
+    "nombre_receptor": "Liam",
+    "mensaje": "Hola Liam, soy Noah. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 2,
+    "nombre_emisor": "Noah",
+    "id_receptor": 3,
+    "nombre_receptor": "Emma",
+    "mensaje": "Hola Emma, soy Noah. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 0,
+    "nombre_emisor": "Liam",
+    "id_receptor": 4,
+    "nombre_receptor": "Sophia",
+    "mensaje": "Hola Sophia, soy Liam. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 3,
+    "nombre_emisor": "Emma",
+    "id_receptor": 1,
+    "nombre_receptor": "Olivia",
+    "mensaje": "Hola Olivia, soy Emma. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 1,
+    "nombre_emisor": "Olivia",
+    "id_receptor": 4,
+    "nombre_receptor": "Sophia",
+    "mensaje": "Hola Sophia, soy Olivia. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  },
+  {
+    "id_emisor": 2,
+    "nombre_emisor": "Noah",
+    "id_receptor": 4,
+    "nombre_receptor": "Sophia",
+    "mensaje": "Hola Sophia, soy Noah. Amigos!!!.",
+    "hora": "2023-11-20 16:16:09"
+  }
+]

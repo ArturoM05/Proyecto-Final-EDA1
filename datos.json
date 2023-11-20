@@ -1,0 +1,93 @@
+{
+    "lista_adyacencia": {
+        "3": [
+            {
+                "destino": 4,
+                "peso": 2
+            },
+            {
+                "destino": 2,
+                "peso": 2
+            },
+            {
+                "destino": 0,
+                "peso": 2
+            },
+            {
+                "destino": 1,
+                "peso": 4
+            }
+        ],
+        "4": [
+            {
+                "destino": 3,
+                "peso": 2
+            },
+            {
+                "destino": 0,
+                "peso": 4
+            },
+            {
+                "destino": 1,
+                "peso": 2
+            },
+            {
+                "destino": 2,
+                "peso": 1
+            }
+        ],
+        "0": [
+            {
+                "destino": 4,
+                "peso": 4
+            },
+            {
+                "destino": 3,
+                "peso": 2
+            },
+            {
+                "destino": 2,
+                "peso": 2
+            },
+            {
+                "destino": 1,
+                "peso": 1
+            }
+        ],
+        "2": [
+            {
+                "destino": 3,
+                "peso": 2
+            },
+            {
+                "destino": 0,
+                "peso": 2
+            },
+            {
+                "destino": 4,
+                "peso": 1
+            }
+        ],
+        "1": [
+            {
+                "destino": 3,
+                "peso": 4
+            },
+            {
+                "destino": 0,
+                "peso": 1
+            },
+            {
+                "destino": 4,
+                "peso": 2
+            }
+        ]
+    },
+    "lista_nombres": [
+        "Emma",
+        "Sophia",
+        "Liam",
+        "Noah",
+        "Olivia"
+    ]
+}
