@@ -8,4 +8,4 @@
 - [@fcastroj](https://github.com/fcastroj)
 
 ## Replit
-- (https://replit.com/@ArturoM11/Proyecto-Final-EDA1)
+- https://replit.com/@ArturoM11/Proyecto-Final-EDA1
