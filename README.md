@@ -6,3 +6,6 @@
 - [@ArturoM05](https://github.com/ArturoM05)
 - [@Juanes704](https://github.com/Juanes704)
 - [@fcastroj](https://github.com/fcastroj)
+
+## Replit
+- (https://replit.com/@ArturoM11/Proyecto-Final-EDA1)
